@@ -1,4 +1,4 @@
-![Advent of JavaScript](./images/adventOfJs_header.jpg)
+![Advent of JavaScript](./images/adventOfJs_header_pic.jpg)
 
 # Day 1 - Pomodoro Timer - by Aniko Gardonyi
 
