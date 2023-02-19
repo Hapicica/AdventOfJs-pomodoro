@@ -2,7 +2,7 @@
 
 # Day 1 - Pomodoro Timer - by Aniko Gardonyi
 
-This challenge is from [Advent of JavaScript](https://www.adventofjs.com/)
+This challenge is from [Advent of JavaScript](https://www.adventofjs.com/) #adventofjs
 
 You are able to:
 - Start and Stop the Timer
