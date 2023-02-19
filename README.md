@@ -1,1 +1,17 @@
-# AdventOfJs-pomodoro
+![Advent of JavaScript](https://adventofjavascript.s3.us-east-1.amazonaws.com/2021/advent-of-js-gumroad-cover.png)
+
+# Day 1 - Pomodoro Timer - by Aniko Gardonyi
+
+This challenge is from [Advent of JavaScript](https://www.adventofjs.com/)
+
+You are able to:
+- Start and Stop the Timer
+- Click on the gear icon to change the length (minutes and seconds) for the timer.
+
+When the timer runs out:
+- The circle changes from green to red 
+- The timer stops
+- A ringtone sounds
+
+There is a JQuery and a Vanilla JS file attached to it<br>
+Feel free to use the code for your project
